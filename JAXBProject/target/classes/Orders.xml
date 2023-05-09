@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<student>
+	<city>Bhopal</city>
+	<college>IES College Bhopal</college>
+	<country>India</country>
+	<id>101</id>
+	<name>Amarjeet</name>
+	<state>Madheya Pradesh</state>
+</student>

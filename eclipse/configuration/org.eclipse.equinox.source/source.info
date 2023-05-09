@@ -1,0 +1,5 @@
+#encoding=UTF-8
+#version=1
+org.antlr.antlr4-runtime.source,4.7.1,../../../.p2/pool/plugins/org.antlr.antlr4-runtime.source_4.7.1.jar,-1,false
+org.thymeleaf.extras.eclipse.contentassist.source,3.0.1.202109120458,../../../.p2/pool/plugins/org.thymeleaf.extras.eclipse.contentassist.source_3.0.1.202109120458.jar,-1,false
+org.thymeleaf.extras.eclipse.core.source,3.0.1.202109120458,../../../.p2/pool/plugins/org.thymeleaf.extras.eclipse.core.source_3.0.1.202109120458.jar,-1,false

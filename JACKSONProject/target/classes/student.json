@@ -1,0 +1,39 @@
+{
+	"id": 101,
+	"name": "Amarjeet",
+	"city": "Banglore",
+	"college": "IES COLLEGE BHOPAL",
+	"state": "Bihar",
+	"country": "India",
+	
+	
+	"account": {
+		"accountNumber": 626153506,
+		"balance": 50000.0,
+		"branchName": "SBI Turki muzaffarpur",
+		"bankName": "SBI Bank"
+	},
+	"orders": [
+		{
+			"orderId": 101,
+			"orderName": "Mobile",
+			"quantity": 4,
+			"price": 2000.0,
+			"delivered": true
+		},
+		{
+			"orderId": 102,
+			"orderName": "Laptop",
+			"quantity": 4,
+			"price": 2000.0,
+			"delivered": true
+		},
+		{
+			"orderId": 103,
+			"orderName": "Table",
+			"quantity": 4,
+			"price": 2000.0,
+			"delivered": true
+		}
+	]
+}

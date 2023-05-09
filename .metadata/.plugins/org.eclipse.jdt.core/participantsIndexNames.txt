@@ -1,0 +1,7 @@
+INDEX VERSION 1.132
+C:\Users\USER\Desktop\JavaWorkSpace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2552749748.index
+\SpringMVC-Project\src\main\resources
+C:\Users\USER\Desktop\JavaWorkSpace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\893552416.index
+\SpringMVC\src\main\resources
+C:\Users\USER\Desktop\JavaWorkSpace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2389236961.index
+\NoteTaker\src\main\java

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\Users\USER\Desktop\Microservices\Microservices-Tutorial-Series\apache-jmeter-5.5\apache-jmeter-5.5"/>
+			<item value="C:\Users\USER\Desktop\Microservices\Microservices-Tutorial-Series\ApiGateway\ApiGateway"/>
+			<item value="C:\Users\USER\Desktop\Microservices\Microservices-Tutorial-Series\ConfigServer"/>
+			<item value="C:\Users\USER\Desktop\Microservices\Microservices-Tutorial-Series\HotelService"/>
+			<item value="C:\Users\USER\Desktop\Microservices\Microservices-Tutorial-Series\RatingService"/>
+			<item value="C:\Users\USER\Desktop\Microservices\Microservices-Tutorial-Series\ServiceRegistry"/>
+			<item value="C:\Users\USER\Desktop\Microservices\Microservices-Tutorial-Series\UserService"/>
+			<item value="C:\Users\USER\Documents\smartcontactmanager"/>
+			<item value="C:\Users\USER\Desktop\JavaWorkSpace\smartcontactmanager"/>
+			<item value="C:\Users\USER\Desktop\smartcontactmanager"/>
+			<item value="C:\Users\USER\Desktop\JavaWorkSpace\smartcontactmanager\src\main\java\com\smart\entity\Contact.java"/>
+			<item value="C:\Users\USER\Desktop\notetaker\Notebook_web_app\NoteTaker"/>
+			<item value="C:\Users\USER\Desktop\J\SpringBootProject1"/>
+			<item value="C:\Users\USER\Desktop\J\Spring-Jdbc"/>
+			<item value="C:\Users\USER\Desktop\J\Spring-Core"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+		<list key="ciManagementUrl">
+		</list>
+		<list key="ciManagementSystem">
+		</list>
+		<list key="issueManagementSystem">
+		</list>
+		<list key="issueManagementUrl">
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="C:\Users\USER\Desktop\JavaWorkSpace\SpringORM"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item key="catalog" value="internal"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+			<item value="com.spring.mvc"/>
+			<item value="com.spring.orm"/>
+			<item value="coml.spring.orm"/>
+		</list>
+		<list key="groupId">
+			<item value="com.spring.mvc"/>
+			<item value="com.spring.orm"/>
+		</list>
+		<list key="artifactId">
+			<item value="SpringMVC"/>
+			<item value="SpringMVC-Project"/>
+			<item value="SpringORM-Project"/>
+			<item value="SpringORM"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+</section>

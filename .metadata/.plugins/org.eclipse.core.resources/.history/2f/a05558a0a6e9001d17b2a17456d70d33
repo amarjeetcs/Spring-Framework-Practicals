@@ -1,0 +1,10 @@
+package com.amarjeet.servlet.project;
+
+import javax.servlet.http.HttpServlet;
+
+public class UsingHttpServlet extends HttpServlet{
+	public void doPost()
+	{
+		System.out.println("I am post method...");
+	}
+}

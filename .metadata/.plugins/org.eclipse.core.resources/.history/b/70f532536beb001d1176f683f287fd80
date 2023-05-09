@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8" />
+	<title>Thymleaf Website</title>
+</head>
+<body style="background-color:powderblue;">
+	<h1><center>Welcome to CodingTech</center></h1>
+	<Body>   
+<nav>  
+<ul>  
+<li>  
+<a href="#"> Home </a>  
+</li>  
+<li>  
+<a href="#"> About </a>  
+</li>  
+<li>  
+<a href="#"> Contact </a>  
+</li>  
+<li> <a href="#"> Terms of use </a>  
+</li>  
+<li>  
+<a href="#"> Join Us </a>  
+</li>  
+</ul>  
+</nav>  
+You are at JavaTpoint Site.....  
+</Body>   
+</Html>  
+</body>
+</html>

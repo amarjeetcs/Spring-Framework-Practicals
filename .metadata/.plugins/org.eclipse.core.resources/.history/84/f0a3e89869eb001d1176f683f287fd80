@@ -1,0 +1,5 @@
+package com.amarjeet.thymleaf.controller;
+
+public class MainController {
+
+}

@@ -1,0 +1,10 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8" />
+	<title>Thymleaf Website</title>
+</head>
+<body>
+	<h1 text:aline-center>Learn code with Amarjeet</h1>
+</body>
+</html>

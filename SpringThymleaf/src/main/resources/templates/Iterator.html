@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body style="background-color: powderblue;">
+	<h1>
+		<center>We are going to Irerate Loop</center>
+	</h1>
+	<h1>List of elements in array <span th:text="${lists}"></span></h1>
+	<ul>
+	<li th:each="n : ${lists}">
+	<span th:text="${n}"></span>
+	
+	</li>
+	</ul>
+</body>
+</html>
